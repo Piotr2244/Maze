@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Hero" Collapsed="true">
+    <Position X="7.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EgAAAAAIAkAAAAAKAAAAAAAAQABAAAAFABAIAAAAMEA=</HashCode>
+      <FileName>Hero.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="VirtualLocation" Collapsed="true">
+    <Position X="3.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIEAAAIAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Locations.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Location" Collapsed="true">
+    <Position X="3.75" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>gBAAAAAAAAAIAAAAAAAAAAAAAAAAAAAEAAQAAAAAAAA=</HashCode>
+      <FileName>Locations.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Hallway" Collapsed="true">
+    <Position X="0.5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIEAQAKAAAAAAAgAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Locations.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Chamber" Collapsed="true">
+    <Position X="5" Y="4.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAQAAAAIAAAAAAAAAAAAAAAAAAAABAAAAA=</HashCode>
+      <FileName>Locations.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Skirmish_Chamber" Collapsed="true">
+    <Position X="7.25" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIEAAAIAAAAAAAAAAAAgEAAAAAAAAAAAA=</HashCode>
+      <FileName>Locations.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Treasure_Chamber" Collapsed="true">
+    <Position X="2.75" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIEAAAIAAAAAAAAAQAACAAAAAAAAAAAAA=</HashCode>
+      <FileName>Locations.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Event_Chamber" Collapsed="true">
+    <Position X="5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAIEAAAIAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Locations.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
